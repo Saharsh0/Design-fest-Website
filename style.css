@@ -2,11 +2,11 @@
 {
     width: 100%;
     font-size: 60px;
+    height: 150px;
 }
 
 .small {
     display: inline-block;
-    background-color: white;
 }
 
 #members
@@ -24,7 +24,7 @@
     margin-right: 615px;
 }
 
-#text
+#body
 {
-    background-color: white;
+    background-color: rgb(254, 251, 233);
 }
