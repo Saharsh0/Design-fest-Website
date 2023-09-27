@@ -1,0 +1,30 @@
+#banner
+{
+    width: 100%;
+    font-size: 60px;
+}
+
+.small {
+    display: inline-block;
+    background-color: white;
+}
+
+#members
+{
+    float: right;
+}
+
+.image
+{
+    display: inline-block;
+}
+
+#img1
+{
+    margin-right: 615px;
+}
+
+#text
+{
+    background-color: white;
+}
