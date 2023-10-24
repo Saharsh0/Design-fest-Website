@@ -1,5 +1,4 @@
-#banner
-{
+#banner {
     width: 100%;
     font-size: 60px;
     height: 150px;
@@ -9,28 +8,41 @@
     display: inline-block;
 }
 
-#members
-{
-    float: right;
+#school {
+    font-size: 15px;
 }
 
-.image
-{
+.image {
     display: inline-block;
 }
 
-#img1
-{
+#img1 {
     margin-right: 615px;
 }
 
-#body
-{
+#body {
     background-color: rgb(254, 251, 233);
 }
 
-#tinkercad
-{
+#tinkercad {
     width: 600px;
     height: 300px;
+}
+
+#group_name {
+    font-weight: bold;
+    color: red;
+}
+
+#copy_right_footer {
+    bottom: 0;
+    color: white;
+    background-color: gray;
+    font-size: 18px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    margin-top: 20px;
+    box-shadow: 5px, 5px, 5px, grey;
 }
